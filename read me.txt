@@ -1,0 +1,9 @@
+homework:
+    1.完全弄明白eureka
+    2.把整个eureka的注册和发现流程整理一遍，集群机制整理一遍，zookeeper和eureka的对比整理一遍
+        明天交(手抄)
+
+20190824-homework:
+    1.搭建consul工程，并且实现服务提供者向consul注册服务，服务消费者从consul查询服务
+    2.对比consul和eureka的区别，consul到底比eureka好用在哪个地方！
+    3.去研究hystrix的降级，节流，隔离
