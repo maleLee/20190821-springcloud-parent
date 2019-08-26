@@ -22,6 +22,8 @@
         <module>20190821-springcloud-provider-hystrix-8084</module>
         <module>20190821-springcloud-zuul-5081</module>
         <module>20190821-springcloud-zipkin-4081</module>
+        <module>20190821-springcloud-config-server-3081</module>
+        <module>20190821-springcloud-config-client-3082</module>
     </modules>
 
     <dependencyManagement>
